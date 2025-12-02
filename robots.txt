@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Sitemap location
-Sitemap: https://freeonlinetoolsbox.netlify.app/sitemap.xml
+Sitemap:  https://bestfreegamesonline.pages.dev/sitemap.xml
